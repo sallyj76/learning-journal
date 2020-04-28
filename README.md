@@ -10,3 +10,9 @@ Practicing S.M.A.R.T. goals will teach the new coder how to build plans and scop
 1. Ask questions
 
 Hello, my name is Sally. I am learning coding. My dog's name is Ash.
+
+### Markdown
+* Markdown is a **plain text** formatting syntax aimed at making writing for the internet easier.
+* Markdown is *easy* to learn and use.
+#### What Markdown is not:
+**WYSIWYG**
