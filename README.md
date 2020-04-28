@@ -16,3 +16,4 @@ Hello, my name is Sally. I am learning coding. My dog's name is Ash.
 * Markdown is *easy* to learn and use.
 #### What Markdown is not:
 **WYSIWYG**
+:smiley:
